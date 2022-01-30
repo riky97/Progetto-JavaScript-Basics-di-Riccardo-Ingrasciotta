@@ -1,5 +1,7 @@
 window.addEventListener("DOMContentLoaded", () => {
   console.log("DOM fully loaded and parsed");
+
+  // Implementazione valore
   let TextButton = () => {
     let divCounter = document.querySelector("#divCounter");
     let text_counter = document.createElement("span");
@@ -8,6 +10,7 @@ window.addEventListener("DOMContentLoaded", () => {
     divCounter.appendChild(text_counter);
   };
 
+  // Implementazione tasti + e - per aumentare e diminuire il counter
   let CounterButton = () => {
     let counterButton = document.querySelector("#dButton");
     let imgPlus = document.createElement("img");
@@ -30,10 +33,12 @@ window.addEventListener("DOMContentLoaded", () => {
     counterButton.appendChild(restart);
     counterButton.appendChild(imgPlus);
   };
+  // Richiamo delle funzioni
   TextButton();
   CounterButton();
 });
 
+// Cambio valore
 let PlusMinusClick = (ele) => {
   let text_counter = document.querySelector("#textCounter");
   ele === "-"
@@ -41,7 +46,10 @@ let PlusMinusClick = (ele) => {
     : (text_counter.textContent = ++text_counter.textContent);
 };
 
+// Restart button con conferma
 let Restart = () => {
-  let text_counter = document.querySelector("#textCounter");
-  text_counter.textContent = 0;
+  if (window.confirm("Are you sure to restart counter?")) {
+    let text_counter = document.querySelector("#textCounter");
+    text_counter.textContent = 0;
+  }
 };
