@@ -1,14 +1,26 @@
-# Progetto-JavaScript-Basics-di-Riccardo-Ingrasciotta
-
 <div id="top"></div>
 <br/>
+<!-- PROJECT LOGO -->
+<br />
 <div align="center">
-  <a href="https://mywebcounterapp.netlify.app/">
-    <img src="./img/icon_readme.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/riky97/Progetto-JavaScript-Basics-di-Riccardo-Ingrasciotta">
+    <img src="images/icon_readme.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">COUNTER_APP</h3>
-</div>
+<h3 align="center">COUNTER_APP</h3>
+
+  <p align="center">
+    project_description
+    <br />
+    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+  </p>
 
 <br/>
 <!-- TABLE OF CONTENTS -->
