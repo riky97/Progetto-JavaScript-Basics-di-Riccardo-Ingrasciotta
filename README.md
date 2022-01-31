@@ -10,16 +10,15 @@
 <h3 align="center">COUNTER_APP</h3>
 
   <p align="center">
-    project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/riky97/Progetto-JavaScript-Basics-di-Riccardo-Ingrasciotta"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/riky97/Progetto-JavaScript-Basics-di-Riccardo-Ingrasciotta">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/riky97/Progetto-JavaScript-Basics-di-Riccardo-Ingrasciotta/issues/">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/riky97/Progetto-JavaScript-Basics-di-Riccardo-Ingrasciotta/issues/">Request Feature</a>
   </p>
 </div>
 <br/>
@@ -85,7 +84,7 @@ The project is based on a counter app.
 You can modify the value of the counter using the + and - buttons.
 You can restart the counter value using the restart button.
 <br/>
-To try the app:
+To test the app:
 _[follow this link](https://mywebcounterapp.netlify.app/)_
 
 <p align="right"><a href="#top"><img src="img/topArrow_readme.png" alt="Back to top" width="30" height="30"></a></p>
