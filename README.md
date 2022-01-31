@@ -61,7 +61,7 @@
 - [Javascript](https://www.javascript.com/)
 - [Bootstrap](https://getbootstrap.com)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top"><img src="img/icon_readme.png" alt="Back to top" width="80" height="80"></a></p>
 
 <!-- GETTING STARTED -->
 
@@ -76,6 +76,14 @@ A local copy will be created that you can modify as you wish.
    ```sh
    git clone https://github.com/riky97/Progetto-JavaScript-Basics-di-Riccardo-Ingrasciotta.git
    ```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
