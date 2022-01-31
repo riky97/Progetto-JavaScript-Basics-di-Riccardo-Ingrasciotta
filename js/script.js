@@ -10,8 +10,8 @@ window.addEventListener("DOMContentLoaded", () => {
     divCounter.appendChild(text_counter);
   };
 
-  // Implementazione tasti + e - per aumentare e diminuire il counter
-  let CounterButton = () => {
+  // Implementazione tasto + del counter
+  let PlusButton = () => {
     let counterButton = document.querySelector("#dButton");
     let imgPlus = document.createElement("img");
     imgPlus.classList.add("img");
@@ -19,23 +19,38 @@ window.addEventListener("DOMContentLoaded", () => {
     imgPlus.alt = "+";
     imgPlus.src = "./img/plus.png";
     imgPlus.setAttribute("onclick", "PlusMinusClick('+')");
+    counterButton.appendChild(imgPlus);
+  };
+
+  // Implementazione tasto - del counter
+  let MinusButton = () => {
+    let counterButton = document.querySelector("#dButton");
     let imgMinus = document.createElement("img");
     imgMinus.classList.add("img");
     imgMinus.classList.add("minus");
     imgMinus.alt = "-";
     imgMinus.src = "./img/minus.png";
     imgMinus.setAttribute("onclick", "PlusMinusClick('-')");
-    let restart = document.createElement("div");
-    restart.textContent = "RESTART";
-    restart.className = "restart";
-    restart.setAttribute("onclick", "Restart()");
     counterButton.appendChild(imgMinus);
-    counterButton.appendChild(restart);
-    counterButton.appendChild(imgPlus);
   };
+
+  // Implementazione tasto restart del counter
+  let RestartButton = () => {
+    let counterButton = document.querySelector("#dButton");
+    let restart = document.createElement("img");
+    restart.classList.add("img");
+    restart.classList.add("minus");
+    restart.alt = "restart";
+    restart.src = "./img/restart.png";
+    restart.setAttribute("onclick", "Restart()");
+    counterButton.appendChild(restart);
+  };
+
   // Richiamo delle funzioni
   TextButton();
-  CounterButton();
+  MinusButton();
+  RestartButton();
+  PlusButton();
 });
 
 // Cambio valore
