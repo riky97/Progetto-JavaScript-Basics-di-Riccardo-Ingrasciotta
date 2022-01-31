@@ -10,7 +10,6 @@
 <h3 align="center">COUNTER_APP</h3>
 
   <p align="center">
-    <br />
     <a href="https://github.com/riky97/Progetto-JavaScript-Basics-di-Riccardo-Ingrasciotta"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -40,11 +39,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 <!-- ABOUT THE PROJECT -->
