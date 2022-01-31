@@ -81,12 +81,12 @@ A local copy will be created that you can modify as you wish.
 
 ## Usage
 
-The project is based on a counter application.
+The project is based on a counter app.
 You can modify the value of the counter using the + and - buttons.
 You can restart the counter value using the restart button.
 <br/>
-To try the application:
-_follow this link [Test](https://mywebcounterapp.netlify.app/)_
+To try the app:
+_[follow this link](https://mywebcounterapp.netlify.app/)_
 
 <p align="right"><a href="#top"><img src="img/topArrow_readme.png" alt="Back to top" width="30" height="30"></a></p>
 
