@@ -61,7 +61,7 @@
 - [Javascript](https://www.javascript.com/)
 - [Bootstrap](https://getbootstrap.com)
 
-<p align="right"><a href="#top"><img src="img/icon_readme.png" alt="Back to top" width="80" height="80"></a></p>
+<p align="right"><a href="#top"><img src="img/topArrow_icon.png" alt="Back to top" width="80" height="80"></a></p>
 
 <!-- GETTING STARTED -->
 
