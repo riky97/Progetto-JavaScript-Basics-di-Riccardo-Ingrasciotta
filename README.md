@@ -90,6 +90,16 @@ _[follow this link](https://mywebcounterapp.netlify.app/)_
 
 <p align="right"><a href="#top"><img src="img/topArrow_readme.png" alt="Back to top" width="30" height="30"></a></p>
 
+<!-- CONTACT -->
+
+## Contact
+
+Riccardo - ringrasciotta97@gmail.com
+
+Project Link: [https://github.com/riky97/Progetto-JavaScript-Basics-di-Riccardo-Ingrasciotta](https://github.com/riky97/Progetto-JavaScript-Basics-di-Riccardo-Ingrasciotta)
+
+<p align="right"><a href="#top"><img src="img/topArrow_readme.png" alt="Back to top" width="30" height="30"></a></p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [product-screenshot]: img/img_readme.png
