@@ -48,7 +48,7 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-
+</details>
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
