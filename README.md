@@ -81,9 +81,11 @@ A local copy will be created that you can modify as you wish.
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+The project is based on a counter application.
+You can modify the value of the counter using the + and - buttons.
+You can restart the counter value using the restart button.
+To try the application:
+_follow this link [Test](https://mywebcounterapp.netlify.app/)_
 
 <p align="right"><a href="#top"><img src="img/topArrow_readme.png" alt="Back to top" width="30" height="30"></a></p>
 
