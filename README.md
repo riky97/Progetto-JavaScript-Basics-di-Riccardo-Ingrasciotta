@@ -48,4 +48,4 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[product-screenshot]: .img/img_readme.png
+[product-screenshot]: ./img/img_readme.png
