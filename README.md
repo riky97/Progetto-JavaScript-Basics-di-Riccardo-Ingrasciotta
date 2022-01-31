@@ -41,11 +41,11 @@
 
 ## About The Project
 
-[[product-screenshot]](https://mywebcounterapp.netlify.app/)
+[![Product Name Screen Shot][product-screenshot]](https://mywebcounterapp.netlify.app/)
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[product-screenshot]: ./img/img_readme.png
+[product-screenshot]: img/img_readme.png
