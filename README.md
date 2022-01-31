@@ -84,6 +84,7 @@ A local copy will be created that you can modify as you wish.
 The project is based on a counter application.
 You can modify the value of the counter using the + and - buttons.
 You can restart the counter value using the restart button.
+<br/>
 To try the application:
 _follow this link [Test](https://mywebcounterapp.netlify.app/)_
 
